@@ -5,6 +5,10 @@
 ## Overview
 Simulates a 7-day CHO (Chinese Hamster Ovary) cell line screening campaign for monoclonal antibody production. This project demonstrates the biology and automation behind biotherapeutic development at pharmaceutical companies like Johnson & Johnson.
 
+Briefly put, I built a Python-based simulation of an automated CHO cell line screening workflow.  
+It models a 7-day high-throughput screening campaign, including seeding, feeding, sampling, and final titer and quality analysis.
+The goal is to understand how automation supports clone selection by integrating biological metrics like viability, growth rate, titer, stability, and product quality into a single decision pipeline.
+
 ## What It Simulates
 
 ### The Biology
